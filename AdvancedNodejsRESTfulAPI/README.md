@@ -1,3 +1,3 @@
 # AdvancedNodejsRESTfulAPI
 
-A RESTful API using hapi.js and MongoDB.
+A RESTful API using Hapi framework and MongoDB.
